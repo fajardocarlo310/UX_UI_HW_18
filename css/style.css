@@ -1,0 +1,35 @@
+.inline-block{
+  display: inline-block; 
+  vertical-align: top;
+}
+.logo{
+  width: 23%;
+  padding: 1%;
+}
+.navigation{
+  width: 73%;
+  padding: 1%;
+}
+.list{
+  width: 50%;
+  margin-left: auto;
+}
+.content{
+text-align: center;
+}
+.herolmg{
+  height: 600px;
+  padding: 25px;
+}
+.content{
+  width: 500px;
+  margin: 0 auto;
+}
+.down{
+  background-color:#373738;
+  padding-left: 40%;
+  padding-right: 50%;
+  padding-bottom: 2%;
+  padding-top: 2%;
+}
+
