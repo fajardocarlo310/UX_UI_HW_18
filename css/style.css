@@ -32,4 +32,9 @@ text-align: center;
   padding-bottom: 2%;
   padding-top: 2%;
 }
-
+.flexContainer{
+  display: flex;
+}
+.skillsCont{
+  width: 33%;
+}
